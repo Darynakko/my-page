@@ -11,7 +11,8 @@ http.createServer(function(req, res) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MyPage</title>
 </head>
-<body>
+<body> 
+<!--add some content-->
     <h1>Some content</h1>
     <h2>Some other content</h2>
     <p>Even more content</p>
